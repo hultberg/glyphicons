@@ -1,0 +1,7 @@
+{
+	"license": "SEE LICENSE IN LICENSE",
+	"name": "glyphicons",
+	"main": [
+		"styles/glyphicons.css"
+	]
+}
